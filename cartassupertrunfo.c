@@ -3,6 +3,7 @@
 int main(){
     printf("Desafio das cartas!\n");
     printf("Carta 1: \n");
+
       char Estado;
       char Código [50];
       char Cidade [50];
